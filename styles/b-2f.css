@@ -1,0 +1,33 @@
+    .link{
+        color: rgb(0,113,133);
+    }
+
+    .h1{
+        font-size: larger;
+        font-weight: bolder;
+    }
+
+    .h2{
+        color: rgb(0,118,0);
+        font-weight: bold;
+    }
+    .h3{
+        font-size: 18px;
+    }
+
+    .b1{
+        background-color: rgb(255,216,20);
+        color: black;
+        height:30px;
+        width:130px;
+        border: none;
+        border-radius: 20px;
+    }
+    .b2{
+        background-color: rgb(255,164,28);
+        color: black;
+        height:30px;
+        width:130px;
+        border: none;
+        border-radius: 20px;
+    }

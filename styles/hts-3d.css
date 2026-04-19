@@ -1,0 +1,31 @@
+ .gs{
+        background-color: rgb(121,82,179);
+        color: white;
+        height: 36px;
+        width:100px;
+        border: none;
+        font-weight: bold;
+        margin-right: 8px;
+        border-radius: 4px;
+        transition: background-color 0.15s;
+    }
+    .gs:hover{
+        background-color:rgb(101, 61, 161);
+    }
+
+    .dld{
+        background-color: white;
+        color: rgb(108,117,125);
+        height: 36px;
+        width:100px;
+        border: solid;
+        border-radius: 4px;
+        cursor: pointer;
+        border-width: 1px;
+        transition: background-color 0.15s,color 0.1s;
+
+    }
+    .dld:hover{
+        background-color: rgb(108,117,125);
+        color: white;
+    }

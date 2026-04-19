@@ -1,0 +1,21 @@
+
+
+   .h1{
+        font-size: xx-large;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-family: Montserrat;
+    }
+                
+    .h2 {
+        text-align: center;
+        margin-top: 10px;
+        font-family: Montserrat;
+                
+    }
+
+    .s1{
+        text-decoration: underline;
+    }
